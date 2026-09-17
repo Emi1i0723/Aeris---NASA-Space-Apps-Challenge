@@ -1,0 +1,6 @@
+{
+  "name": "Aeris - Inteligencia y Coordinación de Emergencias",
+  "description": "Plataforma de inteligencia y coordinación que conecta tecnologías de detección, comunicación, localización, mapas, sensores, drones, robots y equipos humanos durante terremotos y emergencias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
